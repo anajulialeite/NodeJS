@@ -13,3 +13,7 @@ link de como baixar o NodeJS: https://nodejs.org/en
 link do Postman: https://www.postman.com/downloads/
 
 link do Insomnia (este que eu estou usando): https://insomnia.rest/download
+
+# License
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
